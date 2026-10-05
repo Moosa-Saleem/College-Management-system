@@ -10,7 +10,7 @@ int main() {
     char b1='_', b2='_', b3='_', b4='_', b5='_', b6='_', b7='_', b8='_', b9='_';
     int move;
 
-    cout << "--- 3 MOVES TIC TAC TOE (FAIR CHANCE) ---\n\n";
+    cout << "---  MOVES TIC TAC TOE (FAIR CHANCE) ---\n\n";
     cout << "GUIDE (Box numbers):\n";
     cout << " 1 | 2 | 3 \n---|---|---\n 4 | 5 | 6 \n---|---|---\n 7 | 8 | 9 \n\n";
 
