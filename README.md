@@ -10,6 +10,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **Tic Tac Toe & Hangman** - Fun word and logic-based games for testing logic.
 * **Stone Paper Scissor & Number Guessing** - Games utilizing random number generation.
 * **Student Grading & Grocery Discount** - Practical tools to calculate scores and bills.
+* **ATM Simulation Program** - Features user data entry alongside functional cash deposit and with draw.
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
