@@ -11,6 +11,8 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **Stone Paper Scissor & Number Guessing** - Games utilizing random number generation.
 * **Student Grading & Grocery Discount** - Practical tools to calculate scores and bills.
 * **ATM Simulation Program** - Features user data entry alongside functional cash deposit and with draw.
+* **Hospital Management System** - A beginner-friendly C++ program featuring an interactive menu system to manage hospital entries and patient-doctor appointments.
+
 
 ## 🛠️ Concepts I Practiced
 * Variables and Data Types
@@ -20,3 +22,4 @@ Welcome to my C++ projects repository! This collection contains various console-
 * Basic Pointers & Functions
 * File Handling (Saving data to .txt files)
 * Basic string
+* basic Functions & Function overloading
