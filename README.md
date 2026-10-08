@@ -12,6 +12,7 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **Student Grading & Grocery Discount** - Practical tools to calculate scores and bills.
 * **ATM Simulation Program** - Features user data entry alongside functional cash deposit and with draw.
 * **Hospital Management System** - A beginner-friendly C++ program featuring an interactive menu system to manage hospital entries and patient-doctor appointments.
+* **MEGA CPP SUITE** A modular C++ console application combining a calculator, hospital management, and bank staff management system using functions.
 
 
 ## 🛠️ Concepts I Practiced
