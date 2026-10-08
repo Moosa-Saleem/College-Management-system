@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 void simple_calculator(){
+    // WELCOME TO THE MEGA MULTI-SOFTWARE 
     cout<<"========CALCULATOR PROGRAM======="<<endl;
     float a,b;
     cout<<"ENTER TWO NUMBERS :"; cin>>a;cin>>b;
