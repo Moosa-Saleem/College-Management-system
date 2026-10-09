@@ -13,6 +13,9 @@ Welcome to my C++ projects repository! This collection contains various console-
 * **ATM Simulation Program** - Features user data entry alongside functional cash deposit and with draw.
 * **Hospital Management System** - A beginner-friendly C++ program featuring an interactive menu system to manage hospital entries and patient-doctor appointments.
 * **MEGA CPP SUITE** A modular C++ console application combining a calculator, hospital management, and bank staff management system using functions.
+* ** Library Management System** - A sleek system to manage book/student registries, track search items, and control issue/return operations.
+* ** Mini Quiz Game** - An interactive choice-based game deploying an advance 2D array structure to evaluate user response logs.
+* ** Multi-Program  Suite** - A centralized landing portal that smoothly bridges independent console utilities into a single active menu loop
 
 
 ## 🛠️ Concepts I Practiced
