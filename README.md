@@ -16,6 +16,8 @@ Welcome to my C++ projects repository! This collection contains various console-
 * ** Library Management System** - A sleek system to manage book/student registries, track search items, and control issue/return operations.
 * ** Mini Quiz Game** - An interactive choice-based game deploying an advance 2D array structure to evaluate user response logs.
 * ** Multi-Program  Suite** - A centralized landing portal that smoothly bridges independent console utilities into a single active menu loop
+* ** Seat Reservation System** - A complete booking platform with dynamic passenger entry, live seat status checking, and instant ticket cancellation controls.
+* ** Plane Reservation System** - A specialized flight booking module featuring interactive menu loops, passenger verification, and a real-time cabin layout map.
 
 
 ## 🛠️ Concepts I Practiced
